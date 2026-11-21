@@ -87,3 +87,13 @@ Phase 4 includes a parity sweep against the live deployment
 
 1. **4-tier vs 5-tier billing canonical set** — decision needed before implementation
 2. **Agents registry grid** — run detail covered (12.4); list artboard optional
+
+## Page 19 — Desktop Completeness additions (KEEL-DSN-003)
+
+| Surface | Component | Artboard | Status |
+|---|---|---|---|
+| Component primitives spec | all `dev-app` controls | `19.1` (`322-0`) | designed |
+| Agent composer deep-dive | `AgentComposer.tsx` | `19.2` (`35J-0`) | designed — pending impl review |
+| Workspace switcher + Inbox | `PlatformWorkspaceBar.tsx` + new inbox surface | `19.3` (`35K-0`) | designed — new surface |
+| App auth + About & updates | new surfaces | `19.4` (`35L-0`) | designed — new surface |
+
